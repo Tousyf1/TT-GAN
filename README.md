@@ -1,4 +1,4 @@
-# Neural RDF-to-Text verbalizer using Generative Adversarial Networks
+# Transformer based Text Generative Adversarial Networks (TT-GANs)
 
 
 
